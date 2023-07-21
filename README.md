@@ -1,4 +1,5 @@
-# React_Part2_CN
+# React_Part2_ MCQs
+
 #React Part2 #Coding Ninjas #MCQs
 
 # React Hooks
